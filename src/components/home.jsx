@@ -1,7 +1,4 @@
-
-
 import './home.css';
-
 
 function App() {
     return (

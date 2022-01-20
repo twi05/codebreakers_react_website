@@ -6,7 +6,7 @@ import {Nav, Navbar, NavDropdown, MenuItem,  Tabs, ButtonToolbar,Container, Butt
 function App() {
     return (
 <>
-<Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+<Navbar style={{zIndex:2}} collapseOnSelect expand="lg" bg="dark" variant="dark">
   <Container><img src={logo} className="App-logo logo" alt="logo" />
   <Navbar.Brand href="#home">Code Breakers</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
