@@ -1,11 +1,19 @@
 import React from "react";
 import './home.css';
 function Mainhome() {
+  // ——————————————————————————————————————————————————
+// TextScramble
+// ——————————————————————————————————————————————————
+
+  
   return (
     <>
-      <div className="home">
+      {/* <div className="home">
         <span>Code Breakers</span>
-      </div>
+      </div> */}
+      <div className="containerText">
+  <div className="text"></div>
+</div>
     </>
   );
 }

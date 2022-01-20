@@ -18,8 +18,8 @@
     position: absolute;
     top: 0;
     background: rgb(229, 0, 255);
-    background: -moz-linear-gradient(90deg, rgba(229, 0, 255, 0.8662815467984069) 0%, rgba(129, 0, 254, 0.7066176812521884) 100%);
-    background: linear-gradient(90deg, rgba(229, 0, 255, 0.8662815467984069) 0%, rgba(129, 0, 254, 0.7066176812521884) 100%);
-    background: -webkit-linear-gradient(90deg, rgba(229, 0, 255, 0.8662815467984069) 0%, rgba(129, 0, 254, 0.7066176812521884) 100%);
+    background: -moz-linear-gradient(90deg, rgba(229, 0, 255, 0.4) 0%, rgba(129, 0, 254, 0.7066176812521884) 100%);
+    background: linear-gradient(90deg, rgba(229, 0, 255, 0.4) 0%, rgba(129, 0, 254, 0.7066176812521884) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(229, 0, 255, 0.4) 0%, rgba(129, 0, 254, 0.7066176812521884) 100%);
     filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#e500ff", endColorstr="#8100fe", GradientType=1);
 }

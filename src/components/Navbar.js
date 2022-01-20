@@ -1,5 +1,6 @@
 
 import logo from './cbLogo.png';
+import './home.css';
 
 import {Nav, Navbar, NavDropdown, MenuItem,  Tabs, ButtonToolbar,Container, Button, Table, ButtonGroup, Row, Col, Grid, Panel, FormGroup, FormControl} from 'react-bootstrap';
 
@@ -32,14 +33,7 @@ function App() {
   </Container>
 </Navbar>
  
-<div className="home">
-{/* <h1>Jquery  CSS3 background</h1>
-<h2><span>by</span> Enrico Toniato </a>  */}
-<span>
 
-Code Breakers
-</span>
-</div>
 </>
     );
 }
